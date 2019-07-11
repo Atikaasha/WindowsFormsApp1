@@ -1,6 +1,11 @@
 ﻿namespace WindowsFormsApp1
 {
-    partial class Form1
+    /*Name: Chowdhury Atika Parvin
+     * ID# 301007336
+     * Description: BMI Calculator project started
+     * Version: 0.1
+     */
+    partial class BMICalcultor
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +33,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.SuspendLayout();
+            // 
+            // BMICalcultor
+            // 
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.ClientSize = new System.Drawing.Size(298, 424);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
+            this.MinimizeBox = false;
+            this.Name = "BMICalcultor";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "BMI Calculator";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

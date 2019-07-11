@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*Name: Chowdhury Atika Parvin
+ * ID# 301007336
+ * Description: BMI Calculator project started
+ * Version: 0.1
+ */
 namespace WindowsFormsApp1
 {
     static class Program
@@ -16,7 +20,7 @@ namespace WindowsFormsApp1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new BMICalcultor());
         }
     }
 }
