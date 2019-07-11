@@ -2,7 +2,7 @@
 {
     /*Name: Chowdhury Atika Parvin
      * ID# 301007336
-     * Description: BMI Calculator project started
+     * Description: BMI Calculator assignment started
      * Version: 0.1
      */
     partial class BMICalcultor
